@@ -1,0 +1,25 @@
+@keyframes gradient {
+    0% {
+      background-position: 0% 50%;
+    }
+    50% {
+      background-position: 100% 50%;
+    }
+    100% {
+      background-position: 0% 50%;
+    }
+}
+
+.pageAnimation {
+    animation: pageAnimation 0.8s 0s both;
+}  
+@keyframes pageAnimation {
+    0% {
+      transform: translateY(100px);
+      opacity: 0;
+    }
+    100% {
+      opacity: 1;
+      transform: none;
+    }
+}

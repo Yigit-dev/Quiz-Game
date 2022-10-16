@@ -1,0 +1,15 @@
+/* FONTS */
+@import url('https://fonts.googleapis.com/css2?family=Nabla&display=swap');
+
+/* Colors and Base Variables */
+:root{
+    --c-theme: #271c36;
+    --c-disable: #b8b8b8;
+    --brand-color: #e72787;
+    --c-orange: #fdad00;
+    --c-softBlue: #32a7e2;
+    --c-purple: #6c5ecf;
+    --c-red: #ec5252;
+    --c-green: #71C562;
+    --c-optionActive: #4a3565;
+}

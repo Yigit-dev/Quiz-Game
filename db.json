@@ -1,0 +1,79 @@
+{
+  "quiz": [
+    {
+      "id": 1,
+      "question": "3 x 4 = ?",
+      "options": [
+        {
+          "id": 1,
+          "option": "12",
+          "isAnswer": true
+        },
+        {
+          "id": 2,
+          "option": "7"
+        },
+        {
+          "id": 3,
+          "option": "0"
+        }
+      ],
+      "selectedOptionId": null,
+      "point": 30
+    },
+    {
+      "id": 2,
+      "question": "5 + 5 = ?",
+      "options": [
+        {
+          "id": 1,
+          "option": "25"
+        },
+        {
+          "id": 2,
+          "option": "10",
+          "isAnswer": true
+        },
+        {
+          "id": 3,
+          "option": "124"
+        }
+      ],
+      "selectedOptionId": null,
+      "point": 30
+    },
+    {
+      "id": 3,
+      "question": "10 x 10 = ?",
+      "options": [
+        {
+          "id": 1,
+          "option": "100",
+          "isAnswer": true
+        },
+        {
+          "id": 2,
+          "option": "20"
+        },
+        {
+          "id": 3,
+          "option": "10"
+        }
+      ],
+      "selectedOptionId": null,
+      "point": 40
+    }
+  ],
+  "scoreboard": [
+    {
+      "username": "test",
+      "point": 60,
+      "id": 1
+    },
+    {
+      "username": "Yigit",
+      "point": 100,
+      "id": 2
+    }
+  ]
+}
